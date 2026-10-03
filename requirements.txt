@@ -1,0 +1,18 @@
+# Phase 1: text RAG
+langchain
+langchain-community
+langchain-ollama
+langchain-text-splitters
+langsmith
+chromadb
+pymupdf
+pandas
+
+# Phase 2: multimodal RAG
+torch
+transformers
+pillow
+ollama
+
+# Notebooks
+ipykernel
